@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergissmeinnicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Vergissmeinnicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergissmeinnicht/) |
+| **Get License** | [Get a Licensing Quote for Vergissmeinnicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergissmeinnicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, Citylights zieh'n vorbei, ich drück' das Gaspedal
+> Wir cruisen durch die Nacht, dein Blick ist illegal
+> Du bist mein Vergissmeinnicht in diesem Asphalt-Dschungel
+> Komm näher ran zu mir, lass uns verschwinden in das Dunkel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
