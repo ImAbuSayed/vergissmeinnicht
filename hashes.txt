@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vergissmeinnicht
+
+This log tracks the cryptographic history and versioning for the song **Vergissmeinnicht** (vergissmeinnicht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:18:44.843226 | `v1` | `2155fcf789419f8d4d38373cd1d6cb815ac1f67b270d6fb515ebb5ef7aba651f` | `55c1d16ec8417e025586b6219e134b740654534be49b05e4b154d44dbdafd14b` | `2026-06-27_vergissmeinnicht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

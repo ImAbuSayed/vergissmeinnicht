@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergissmeinnicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Vergissmeinnicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergissmeinnicht/) |
+| **Get License** | [Music Rights & Licensing for Vergissmeinnicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergissmeinnicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2155fcf789419f8d4d38373cd1d6cb815ac1f67b270d6fb515ebb5ef7aba651f` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
